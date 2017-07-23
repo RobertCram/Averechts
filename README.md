@@ -5,3 +5,5 @@ Commando om de containers te starten:
 docker-compose up
 En stoppen met:
 docker-compose down
+
+testregel
