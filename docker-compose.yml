@@ -13,6 +13,7 @@ services:
      - JOOMLA_DB_PASSWORD=password
     volumes:
      - ./website/html:/var/www/html
+     - ./website/html:/var/www/dw
     networks:
       - averechtsnetwork
 
